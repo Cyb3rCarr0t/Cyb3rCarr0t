@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyb3rCarr0t
 - 👀 I’m interested in becoming a full-fledged software developer!
-- 🌱 I’m currently learning how to use technologies like Svelte, React, and more.
+- 🌱 I’m currently learning how to use technologies like Angular, Svelte, React, and more.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: carolina.mascitti@gmail.com
 
